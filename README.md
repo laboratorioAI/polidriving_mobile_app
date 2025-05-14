@@ -1,12 +1,14 @@
 # POLIDriving Mobile App
 
-POLIDriving Mobile is an application that calculates the risk level of suffering a traffic accident in real-time. The following picture presents the graphic user interface of POLIDriving Mobile.
+POLIDriving Mobile is an application for Adndroid devices that calculates the risk level of suffering a traffic accident in real-time. The following figure presents the graphic user interface of POLIDriving Mobile.
 
 <img src="images/polidriving_mobile_screens.png" width="800"/>
 
 ## Technologies
 
-This application uses <a href=https://nodejs.org/en>NodeJS</a> as the backend technology and <a href=https://react.dev>React</a> as the frontend. It also uses PostgreSQL as the database engine.
+This application was developed in <a href=https://nodejs.org/en>Java</a> and uses some services from AWS, such as Cognito and DynamoDB. It also uses a learning model hosted in S3 and available for consumption through an API REST. The following figure presents the AWS-based infrastructure used by the POLIDriving Mobile.
+
+<img src="images/aws_infrastructure_prevention_system.png" width="800"/>
 
 # Publication
 
