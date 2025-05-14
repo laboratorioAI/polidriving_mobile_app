@@ -6,7 +6,7 @@ POLIDriving Mobile is an application for Adndroid devices that calculates the ri
 
 ## Technologies
 
-This application was developed in <a href=https://nodejs.org/en>Java</a> and uses some services from AWS, such as Cognito and DynamoDB. It also uses a learning model hosted in S3 and available for consumption through an API REST. The following figure presents the AWS-based infrastructure used by the POLIDriving Mobile.
+This application was developed in <a href=https://nodejs.org/en>Java</a> and uses some services from AWS, such as Cognito and DynamoDB. It also uses a learning model hosted in S3 and available for consumption through an API REST. The following figure presents the AWS-based infrastructure used by the POLIDriving app.
 
 <img src="images/aws_infrastructure_prevention_system.png" width="800"/>
 
