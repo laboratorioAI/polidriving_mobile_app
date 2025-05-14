@@ -1,6 +1,6 @@
 //Paquete que contiene un conjunto de clases relacionadas por finalidad, ámbito y herencia
 package com.polidriving.mobile.clases.accuweather;
-
+//
 //Clases usadas para cambio entre actividades
 //Clases usadas para la conexión interclases
 import java.net.MalformedURLException;
