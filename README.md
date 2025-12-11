@@ -1,6 +1,6 @@
 # POLIDriving Mobile App
 
-POLIDriving Mobile is an application for Adndroid devices that calculates the risk level of suffering a traffic accident in real-time. The following figure presents the graphic user interface of POLIDriving Mobile.
+POLIDriving Mobile is an application for Android devices that calculates the risk level of suffering a traffic accident in real-time. The following figure presents the graphic user interface of POLIDriving Mobile.
 
 <img src="images/polidriving_mobile_screens.png" width="800"/>
 
